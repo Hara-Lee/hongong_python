@@ -11,7 +11,7 @@ print("# enumberate() 함수 적용 출력")
 print(enumerate(example_list))
 print()
 
-#list() 함수로 강제 변환해 출력합니다.
+#list() 함수로 강제로 변환해 출력합니다.
 print("# list() 함수로 강제 변환 출력")
 print(list(enumerate(example_list)))
 print()
