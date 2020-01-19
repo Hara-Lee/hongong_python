@@ -1,7 +1,7 @@
 # 모듈을 읽어 들입니다.
 import os
 
-폴더를 읽어 들이는 함수
+# 폴더를 읽어 들이는 함수
 def read_folder(path):
     # 폴더의 요소 읽어 들이기
     output = os.listdir(path)
